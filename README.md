@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @RMBarnard
-- 👀 I’m interested in data science and data security.
-- 🌱 I’m currently learning the C# language and am about to begin learning about machine learning
-- 💞️ I’m looking to collaborate on any C++ or Python projects, especially those related to data science.
+- Hi, I’m @RMBarnard
+- I’m a student at The College of Idaho pursuing degrees in Computer Science and Mathematics
+- I am president of both the math and coding clubs at The College of Idaho
 - 📫 You can reach me at rbarnard1107@gmail.com
 
 <!---
