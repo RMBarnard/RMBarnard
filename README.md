@@ -1,6 +1,6 @@
 - Hi, I’m @RMBarnard
-- I’m a student at The College of Idaho pursuing my degree in Computer Science
-- I am president of both the math and coding clubs at The College of Idaho
+- I’m a Software Engineer at Clearwater Analytics
+- My specialties are in back-end development and data science
 - You can reach me at rbarnard1107@gmail.com
 
 <!---
